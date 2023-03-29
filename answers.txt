@@ -1,6 +1,6 @@
-Number of students who modified this file: 45 students
+Number of students who modified this file: 46 students
 
-Name of the last student who modified this file: Alassani Fousseni Igodo
+Name of the last student who modified this file: Daniel Sema Heyiredin 
 
 -----------------------------------------------------
 [Template]
@@ -559,3 +559,15 @@ Your favorite sport: Football and Table Tennis
 Question 3.
 Your favorite food: Fufu
 -----------------------------------------------------
+[Template]
+Student ID: Open UAS path Student 
+Name: Daniel Sema 
+
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: All Ethiopian food(enjera, tibes)
